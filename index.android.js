@@ -1,2 +1,2 @@
-React = require('react-native')
+React = require('react');
 require('./output/Main').main();
